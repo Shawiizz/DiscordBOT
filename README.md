@@ -1,2 +1,1 @@
 # DiscordBOT
-w
